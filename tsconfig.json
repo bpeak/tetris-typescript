@@ -4,6 +4,7 @@
       "module": "commonjs",
       "lib": ["DOM", "ESNext"],
       "strict": true,
-      "strictNullChecks": true
+      "strictNullChecks": true,
+      "typeRoots": ["./src/ts/@types"]
   }
 }

@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
   "devDependencies": {
     "sass": "^1.26.3",
     "typescript": "^3.8.3"
